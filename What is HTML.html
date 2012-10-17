@@ -1,3 +1,64 @@
-What is HTML?
+If you were to boil down a site like Facebook to its most basic elements, you would find a header, two sidebars, a content area, and a footer. When you create a website, you need a way to seperate page elements. The best way to do this is using HTML.
 
-[ LESSON COMING 10/17/2012 ]
+Tags
+Everything in HTML is defined with tags, surrounded with < >. For example, when starting an HTML document, you use the opening tag <html>. To close an HTML document, you use </html>.
+
+Divs
+A div is, in its simplest form, an imaginary box to contain content in an HTML document. The div tag is very simple, it looks like this: <div>your content here</div>. When you begin to get a larger document, it becomes important to identify your elements, especially divs. Instead of opening a div with a simple <div> you can append id="divname". For example, if you were working on the site's header, you might use <div id="header"></div>. Identifying HTML elements also becomes important when using CSS, which we'll learn later.
+
+Try It
+Now that you know about divs and identifying them, try to build a simple structure of a FaceBook like site. Be sure to include the header, content area, sidebars, and footer.
+
+<div id="header">
+	
+</div>
+<div id="sidenav">
+	
+</div>
+<div id="content">
+
+</div>
+<div id="sideads">
+
+</div>
+<div id="footer">
+
+</div>
+
+Creating a Full HTML Document
+Before we proceed, it is important to know that the above does not constitute a well written HTML document. You'll need to add items to the beginning and end of the document. First, add <!DOCTYPE HTML>, this tells the browser that it should render an HTML document from what you've created. Next, add the <html> and <body> tags. At the end of the document, close both tags respectively. You should end up with:
+<!DOCTYPE HTML>
+<html>
+	<body>
+		<div id="header">
+			
+		</div>
+		<div id="sidenav">
+			
+		</div>
+		<div id="content">
+			
+		</div>
+		<div id="sideads">
+			
+		</div>
+		<div id="footer">
+			
+		</div>
+	</body>
+</html>
+
+Additional Tags
+HTML is made up of thousands of tags, but a few important ones that we'll be using today include headings, paragraphs, lists, head tags, title, and more.
+
+Title
+We want to give our page a title. To do this, we must create a <head> section between the <html> and <body>. Within that section, we should place a title tag: <title>Title of Page</title>
+
+Text
+In HTML, there are six headings ranging from <h1> to <h6>. Each heading gets smaller or larger respectively. When writing standard, non-heading, text, use the <p>, or paragraph tag. If you want to create a new line, you'll have to use a special tag called a <br />.
+
+Lists
+Lists become very important in HTML. In fact, lists are used in places you would not expect, like the navigation bar of Facebook.
+
+More Tags
+Take a look at http://www.w3schools.com/html/default.asp to learn about different tags you can use. Next week, we'll continue learning about HTML.
