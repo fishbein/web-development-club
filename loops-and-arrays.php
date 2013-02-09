@@ -1,4 +1,5 @@
 <?php
+	//Arrays with strings (first one) and integers (second one)
 	$name = array("Phil", "Jacob", "Dan", "Paul", "Robin");
 	$age = array(16, 17, 18, 19);
 
