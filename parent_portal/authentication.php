@@ -11,5 +11,15 @@ class Authentication{
 			echo "Login failed.";
 		}
 	}
+	function register($name, $email, $type, $password, $birthdate){
+		if(!$name){
+			echo "Please enter your name.";
+		}
+		if(!$email){
+			echo "Please enter your name.";
+		}
+
+		$query = mysql_query("INSERT INTO users VALUES('','$name','$email','$type','$password','$birthdate')");
+	}
 }
 ?>
