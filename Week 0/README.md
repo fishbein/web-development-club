@@ -10,7 +10,8 @@ Javascript can be used for almost anything. You'll be able to learn the basics o
 - Sublime Text 2 (Download [here](http://www.sublimetext.com/2 "Sublime Text Two"))
 
 ###In School:
-- A Flash Drive of **any** size
+- A Flash Drive of **any** size (Seriously, even 512MB will suffice)
 - A portable version of Sublime Text 2 Installed on the Flash Drive (Download [here](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.zip "Sublime Text 2 Portable"))
 
-#I hope you're ready to learn and enjoy the course!
+##How meetings work?
+We meet every other Wednesday (probably) in A132. Meetings last one hour, for a half hour, I show you a new concept and for the other half hour, you fire up your computers and try it out while I'm there to help you!
