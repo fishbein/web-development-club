@@ -17,13 +17,13 @@ Javascript can be used for almost anything. You'll be able to learn the basics o
 We meet every other Wednesday (probably) in A132. Meetings last one hour, for a half hour, I show you a new concept and for the other half hour, you fire up your computers and try it out while I'm there to help you!
 
 ##FAQ
-1. I missed a meeting, should I even bother showing up anymore?
+1. I missed a meeting, should I even bother showing up anymore?  
 Of course! The day after each meeting, I post the code we worked on to https://github.com/fishbein/web-development-club/ just click on whatever week you missed.
-2. I'm trying out a concept at home and something's not working, what do I do?
+2. I'm trying out a concept at home and something's not working, what do I do?  
 Email me, call me, text me, I'd be happy to help you fix your code.
-3. I've never coded before, I don't even know what programming is...
+3. I've never coded before, I don't even know what programming is...  
 No problem! This club assumes no prior knowledge, though it doesn't hurt. If I ever go to fast or mention something you don't understand, **interrupt me**!
-4. I prefer a different editor than Sublime Text, can I use it?
+4. I prefer a different editor than Sublime Text, can I use it?  
 Sure!
-5. I have a question not listed here.
+5. I have a question not listed here.  
 Email me!
