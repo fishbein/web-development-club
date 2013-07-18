@@ -8,6 +8,7 @@ Javascript can be used for almost anything. You'll be able to learn the basics o
 ###At Home:
 - A working computer with Internet Connection
 - Sublime Text 2 (Download [here](http://www.sublimetext.com/2 "Sublime Text Two"))
+
 ###In School:
 - A Flash Drive of **any** size
 - A portable version of Sublime Text 2 Installed on the Flash Drive (Download [here](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.zip "Sublime Text 2 Portable"))
