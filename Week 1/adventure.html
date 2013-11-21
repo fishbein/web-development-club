@@ -1,0 +1,23 @@
+<script type="text/javascript" src="jquery.min.js"></script> <!-- Include Javascript -->
+
+<script type="text/javascript">
+
+	confirm("Ready to play?");
+	var age = prompt("How old are you?");
+	if (age >= 13) {
+		var decision = prompt("Batman and Superman meet on a street. They lock eyes, the battle is iminent. What does batman do?");
+		if (decision=="fight"){
+			console.log("Superman uses super strength and deflects Batman's punches. You lose.");
+		}
+		else if(decision=="run"){
+			console.log("Coward! Superman wins by default.");
+		}
+		else{
+			console.log("Batman doesn't know what to do, panics, and faints.");
+		}
+	}
+	else{
+		alert("Sorry, you're not old enough to play!");
+	}
+
+</script>
